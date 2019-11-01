@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nothing"
+title                    : "Sohyeon's Blog"
 title_separator          : "-"
 subtitle                 : ".." # site tagline that appears below site title in masthead
 name                     : "Sohyeon Lee"
@@ -24,9 +24,10 @@ description              : "lshhhhh's blog"
 url                      : "https://lshhhhh.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lshhhhh/lshhhhh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/autumn.jpg"
-logo                     : "/assets/images/logo.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+teaser                   : # "/assets/images/autumn.jpg"
+logo                     : # "/assets/images/logo.png"
+cover                    : "/assets/images/autumn.jpg"
+masthead_title           : "Nothing"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
