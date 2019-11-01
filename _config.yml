@@ -24,9 +24,8 @@ description              : "lshhhhh's blog"
 url                      : "https://lshhhhh.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lshhhhh/lshhhhh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # "/assets/images/autumn.jpg"
+teaser                   : "/assets/images/teaser.png"
 logo                     : # "/assets/images/logo.png"
-cover                    : "/assets/images/autumn.jpg"
 masthead_title           : "Nothing"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -66,7 +65,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -90,7 +89,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/coffee.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -109,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Sohyeon Lee"
-  avatar           : "/assets/images/cat.jpg"
+  avatar           : "/assets/images/shlee.jpg"
   bio              : "I am a **tired** person."
   location         : "Seongnam, Korea"
   email            :
