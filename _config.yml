@@ -23,7 +23,8 @@ name                     : "Sohyeon Lee"
 description              : "lshhhhh's blog"
 url                      : "https://lshhhhh.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lshhhhh/lshhhhh.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "lshhhhh/lshhhhh.github.io" # GitHub username/repo-name 
+cover                    : "/assets/images/banner.jpg"
 teaser                   : "/assets/images/teaser.png"
 logo                     : # "/assets/images/logo.png"
 masthead_title           : "Nothing"

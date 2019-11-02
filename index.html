@@ -2,3 +2,9 @@
 layout: home
 author_profile: true
 ---
+
+<div class="bannerimage">
+    <div class="bannerimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
+        Banner Image
+    </div>
+</div>
